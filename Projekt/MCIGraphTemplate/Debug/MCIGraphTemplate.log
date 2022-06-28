@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(80,46): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(81,46): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(186,46): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(187,46): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(316,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(361,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(475,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(481,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(487,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\MCIGraphTemplate\main.cpp(574,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  MCIGraphTemplate.vcxproj -> C:\Users\Dell\OneDrive - mci4me.at\4. Semester\Programmieren\Projektabgabe\Projekt\Debug\MCIGraphTemplate.exe
